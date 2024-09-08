@@ -1,0 +1,22 @@
+﻿  main.cpp
+f:\vs2013 code\projectgame2\project game 2\commonfunc.h(54): warning C4091: 'typedef ' : ignored on left of 'Input' when no variable is declared
+f:\vs2013 code\projectgame2\project game 2\commonfunc.h(69): warning C4091: 'typedef ' : ignored on left of 'Map' when no variable is declared
+f:\vs2013 code\projectgame2\project game 2\geometric.h(18): warning C4091: 'typedef ' : ignored on left of 'GeometricFormat' when no variable is declared
+f:\vs2013 code\projectgame2\project game 2\geometric.h(29): warning C4091: 'typedef ' : ignored on left of 'ColorData' when no variable is declared
+f:\vs2013 code\projectgame2\project game 2\main.cpp(100): warning C4551: function call missing argument list
+f:\vs2013 code\projectgame2\project game 2\main.cpp(101): warning C4551: function call missing argument list
+f:\vs2013 code\projectgame2\project game 2\main.cpp(122): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(123): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(125): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(126): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(149): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(150): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+f:\vs2013 code\projectgame2\project game 2\main.cpp(366): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(420): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(434): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(486): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(498): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(503): warning C4018: '<' : signed/unsigned mismatch
+f:\vs2013 code\projectgame2\project game 2\main.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+  Project Game 2.vcxproj -> F:\VS2013 CODE\ProjectGame2\Debug\Project Game 2.exe
